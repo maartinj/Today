@@ -54,5 +54,3 @@ class ReminderListViewController: UICollectionViewController {
         return UICollectionViewCompositionalLayout.list(using: listConfiguration)
     }
 }
-
-// Section 6, step 1
